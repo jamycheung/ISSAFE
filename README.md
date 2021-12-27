@@ -32,11 +32,11 @@ For the basic setting of this work, please prepare datasets of [Cityscapes](http
 
 Our proposed DADA-seg dataset is a subset from [DADA-2000](https://github.com/JWFangit/LOTVS-DADA). Our annotations have the same labeling rule as Cityscapes. 
 
-The DADA-seg dataset is now available in [Google Drive]().
+The DADA-seg dataset is now available in [Google Drive](https://drive.google.com/file/d/15KWOvZMZRlvBx9oNIWCUeTfncr1AM-9g/view?usp=sharing).
 
 The event generation can be found in [EventGAN](https://github.com/alexzzhu/EventGAN). The anchor and its previous frames are needed for event generation. The generated event volume is saved as `.npy` format for this work. 
 
-A structure of dataset is following:
+A structure of dataset should be:
 
  ```
 dataset
