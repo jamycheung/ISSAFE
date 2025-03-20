@@ -41,7 +41,7 @@ Our proposed DADA-seg dataset is a **subset** from [DADA-2000](https://github.co
 The DADA-seg dataset and event data of Cityscapes are now available:
 | Dataset | Image & label | Event | Label-only |
 |---|---|---|---|
-| DADA-seg (val) | 46.8MB [[Baidu Drive](https://pan.baidu.com/s/1BqKDPCbpiiJKvqgRz7amJw?pwd=h71p)] | 401.2MB [[Baidu Drive](https://pan.baidu.com/s/1jcWrio5i1MStGNNpemZZKg?pwd=ubvm)] | 2.7MB [[Google Drive](https://drive.google.com/file/d/15KWOvZMZRlvBx9oNIWCUeTfncr1AM-9g/view?usp=sharing)] |
+| DADA-seg (val) | 46.8MB [[Baidu Drive](https://pan.baidu.com/s/1BqKDPCbpiiJKvqgRz7amJw?pwd=h71p)] [[Google Drive](https://drive.google.com/file/d/131PZX7h6L14lz7L4LV3JbpBoy9n10Uq7/view?usp=sharing)] | 401.2MB [[Baidu Drive](https://pan.baidu.com/s/1jcWrio5i1MStGNNpemZZKg?pwd=ubvm)] [[Google Drive](https://drive.google.com/file/d/1n6KxC5cNXwKkrvaJJv-CPglBRPoRn0T6/view?usp=sharing)] | 2.7MB [[Google Drive](https://drive.google.com/file/d/15KWOvZMZRlvBx9oNIWCUeTfncr1AM-9g/view?usp=sharing)] |
 | Cityscapes (train + val) | - | 7.5GB [[Baidu Drive](https://pan.baidu.com/s/1hAmTUrRChr4XZWu72xgUTQ?pwd=kd3k)] | - |
 
 
